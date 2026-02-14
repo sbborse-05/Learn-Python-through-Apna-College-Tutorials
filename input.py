@@ -1,0 +1,10 @@
+# name = input("enter your name: ")
+# print(type(name), name)
+
+name = input("enter name: ")
+age = int(input("enter age: "))
+marks = float(input("enter marks: "))
+# val = int(input("enter your age : "))
+print("Welcome ", name)
+print("Age: ", age)
+print("Marks: ", marks)
