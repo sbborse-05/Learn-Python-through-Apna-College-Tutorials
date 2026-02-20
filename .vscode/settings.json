@@ -1,0 +1,4 @@
+{
+    "python.createEnvironment.contentButton": "hide",
+    "notebook.consolidatedRunButton": false
+}
