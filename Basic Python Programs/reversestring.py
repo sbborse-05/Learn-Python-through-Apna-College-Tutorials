@@ -1,0 +1,13 @@
+# Program to reverse a string
+
+
+s = input("Enter a string: ")
+rev = ""
+
+i = len(s) - 1
+
+while i >= 0:
+    rev += s[i]
+    i -= 1
+
+print("The reverse of the string is:", rev)
